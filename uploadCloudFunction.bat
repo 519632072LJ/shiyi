@@ -1,0 +1,1 @@
+"D:\WenchatAPP\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0gnj2bhn19320e45 --n quickstartFunctions --r --project "D:\shiyi" --report
